@@ -20,7 +20,7 @@
 ### u-center
 - [u-center](https://www.u-blox.com/en/product/u-center)
   - Do **not** use `u-center2`
-  - You might need to install `vc_redist.x64` and/or `vc_redist.x86`
+  - If you get an error message about `VCRUNTIME140.dll`, you should install `vc_redist.x86.exe` and `vc_redist.x64.exe` from [this link](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist).
 
 ### RTKLib
 - RTKLib (Original)
