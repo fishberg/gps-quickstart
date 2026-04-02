@@ -94,8 +94,13 @@
 ```
 sudo apt install -y git build-essential cmake libblas-dev liblapack-dev qtchooser qt6-base-dev qt6-serialport-dev
 git clone https://github.com/rtklibexplorer/RTKLIB.git
+cd RTKLIB
+mkdir build
+cd build
+cmake ..
+make -j
 ```
-- Follow instructions [here](https://github.com/rtklibexplorer/RTKLIB)
+- Instructions adapted from [here](https://github.com/rtklibexplorer/RTKLIB)
 
 
 ---
