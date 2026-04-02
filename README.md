@@ -92,7 +92,7 @@
 
 ## Build NTRIP Caster on Linux
 ```
-sudo apt install -y git build-essentials cmake libblas-dev liblapack-dev qtchooser qt6-base-dev qt6-serialport-dev
+sudo apt install -y git build-essential cmake libblas-dev liblapack-dev qtchooser qt6-base-dev qt6-serialport-dev
 git clone https://github.com/rtklibexplorer/RTKLIB.git
 ```
 - Follow instructions [here](https://github.com/rtklibexplorer/RTKLIB)
