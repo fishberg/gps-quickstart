@@ -99,6 +99,7 @@ mkdir build
 cd build
 cmake ..
 make -j
+cd ../bin
 ```
 - Instructions adapted from [here](https://github.com/rtklibexplorer/RTKLIB)
 
