@@ -100,6 +100,7 @@ cd build
 cmake ..
 make -j
 cd ../bin
+./strsvr_qt
 ```
 - Instructions adapted from [here](https://github.com/rtklibexplorer/RTKLIB)
 
