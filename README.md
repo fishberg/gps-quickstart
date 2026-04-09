@@ -13,6 +13,19 @@
 | Antenna (Rover) | Mouser | AS-ANT2B-ANN-L1L2-50SMA-00 | $64.98 | [Link](https://www.mouser.com/ProductDetail/ArduSimple/AS-ANT2B-ANN-L1L2-50SMA-00?qs=sPbYRqrBIVkv%252Bc79%2Ft3W8w%3D%3D) |
 | GNSS Receiver Module (F9P) + Antenna (Helical) | Holybro | H-RTK F9P GNSS Series (IST8310 Compass) | $296.99 | [Link](https://holybro.com/products/h-rtk-f9p-gnss-series?variant=41466787168445) |
 
+### Other Useful Materials
+| Purpose | Vendor | Info | Cost | Link |
+| - | - | - | - | - |
+| Tripod w/ 5/8"-11 | Amazon | Mountlaser SJA10 | $61.99 | [Link](https://www.amazon.com/dp/B07WHQF99N) |
+| Tripod w/ 5/8"-11 | Amazon | GEEKOTO 77" Tripod | $69.99 | [Link](https://www.amazon.com/dp/B07DC48V5H) | 
+| 1/4"-20 Female to 5/8"-11 Male Screw Adapter | Amazon | CAMVATE | $7.80 | [Link](https://www.amazon.com/dp/B0BHVL3JPZ) |
+| Outdoor Electrical Box | Amazon | Dimensions: 12.5" x 8.5" x 5" | $19.99 | [Link](https://www.amazon.com/dp/B0CB61BH4W) |
+| Outdoor Extension Cable | Amazon | Length: 100ft | $30.99 | [Link](https://www.amazon.com/dp/B0B2D3N5K3) |
+| Outdoor Ethernet | Amazon | Cat 6; Length: 100ft | $20.99 | [Link](https://www.amazon.com/dp/B0C3RDDQJ1) |
+| SMA Male to TNC Male Cable | Sparkfun | Length: 10m | $42.95 | [Link](https://www.sparkfun.com/reinforced-interface-cable-sma-male-to-tnc-male-10m.html) |
+| SMA Male to TNC Male Adapter | Sparkfun | Length: 300mm | $42.95 | [Link](https://www.sparkfun.com/reinforced-interface-cable-sma-male-to-tnc-male-10m.html) |
+| TNC Male to SMA Female Adapter | Amazon | Quantity: x4 | $9.99 | [Link](https://www.amazon.com/dp/B0BGPCRSFR) |
+
 ---
 
 ## Software
