@@ -1,0 +1,18 @@
+session_name: gps_test
+windows:
+  - window_name: run_ntrip.sh
+    layout: tiled
+    panes:
+      - ./run_ntrip.sh
+  - window_name: run_gps.sh
+    panes:
+      - ./run_gps.sh
+  - window_name: echo_ntrip.sh
+    panes:
+      - ./echo_ntrip.sh
+  - window_name: echo_gps.sh
+    panes:
+      - ./echo_gps.sh
+  - window_name: echo_fix.sh
+    panes:
+      - ./echo_fix.sh
