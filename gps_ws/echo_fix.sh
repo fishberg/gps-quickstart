@@ -6,8 +6,9 @@ for line in sys.stdin:
     m = re.search(r"flags:\s*(\d+)", line)
     if m:
         flags = int(m.group(1))
+        rtk_float = 1 if ((flags >> 6) & 0b11) == 1 else 0
         rtk_fix = 1 if ((flags >> 6) & 0b11) == 2 else 0
-        print(f"FLAGS={flags}   RTK_FIX={rtk_fix}", flush=True)
+        print(f"FLAGS={flags}    RTK_FLOAT={rtk_float}    RTK_FIX={rtk_fix}", flush=True)
 '
 
 #ros2 topic echo /ublox_gps_node/navpvt
